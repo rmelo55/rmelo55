@@ -1,8 +1,8 @@
 ## Hi, I'm Ricardo!
 <!--
-**rmelo55/rmelo55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rmelojs/rmelojs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-_I’m currently working on Next.js and CodeIgniter projects._
+_I’m currently working on Next.js project._
 <!--
 - 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate on ...
